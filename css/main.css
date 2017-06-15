@@ -1,0 +1,22 @@
+/*Modal*/
+
+.modal-header {
+  background: #eee;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.modal-footer {
+  background: #eee;
+  border-radius: 0px 0px 5px 5px;
+}
+
+.btn-default{
+  background-color: #eee;
+}
+
+/*Success message*/
+
+.success {
+  display: none;
+  margin-bottom: 20px;
+}
